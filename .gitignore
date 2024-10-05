@@ -86,3 +86,6 @@ cython_debug/
 # Local environment settings
 .env
 .env.*
+
+# IntelliJ IDEA project files
+.idea/
