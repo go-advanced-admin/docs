@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="d"
-                 name="docs"
+<instance-profile id="gaapd"
+                 name="Go Advanced Admin Panel Documentation"
                  start-page="Quick-Start.md">
 
     <toc-element topic="Quick-Start.md">
