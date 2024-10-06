@@ -4,12 +4,12 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="in">
+    <build-profile instance="d">
         <variables>
-            <noindex-content>true</noindex-content>
             <algolia-id>Q154LTKUGD</algolia-id>
             <algolia-index>docs</algolia-index>
             <algolia-api-key>bab82e264b24b313c625767d43e9180a</algolia-api-key>
+            <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
 

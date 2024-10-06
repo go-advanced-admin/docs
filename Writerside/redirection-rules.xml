@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="23d19ee3">
+        <description>Created after removal of "Starter" from docs</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="febda9b">
+        <description>Created after removal of "Advanced Admin" from docs</description>
+        <accepts>Advanced-Admin.html</accepts>
+    </rule>
+    <rule id="114da2fc">
+        <description>Created after removal of "Echo and GORM Quick Start" from docs</description>
+        <accepts>Echo-Quick-Start.html</accepts>
+    </rule>
+    <rule id="159a1bb9">
+        <description>Created after removal of "Permissions" from docs</description>
+        <accepts>Permissions.html</accepts>
+    </rule>
+</rules>
