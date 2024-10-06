@@ -1,4 +1,4 @@
-# Advanced Admin Panel Documentation
+# Welcome
 
 Welcome to the documentation for the Advanced Admin Panel for Go. This guide will help you integrate the admin panel into your Go applications using various web frameworks and ORMs. Whether you're just getting started or looking to customize the admin panel to fit your needs, this documentation covers everything you need.
 

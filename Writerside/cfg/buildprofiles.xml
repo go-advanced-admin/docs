@@ -4,7 +4,7 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="d">
+    <build-profile instance="gaapd">
         <variables>
             <algolia-id>Q154LTKUGD</algolia-id>
             <algolia-index>docs</algolia-index>
