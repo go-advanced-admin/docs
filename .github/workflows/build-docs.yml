@@ -14,7 +14,7 @@ env:
   ARTIFACT: 'webHelpIN2-all.zip'
   DOCKER_VERSION: '242.21870'
   ALGOLIA_ARTIFACT: 'algolia-indexes-IN.zip'
-  ALGOLIA_APP_NAME: 'Go-Advanced-Admin-Docs'
+  ALGOLIA_APP_NAME: 'Q154LTKUGD'
   ALGOLIA_INDEX_NAME: 'docs'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
   CONFIG_JSON_PRODUCT: 'IN'
