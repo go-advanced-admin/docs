@@ -10,8 +10,8 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/hi'
-  ARTIFACT: 'webHelpHI2-all.zip'
+  INSTANCE: 'Writerside/in'
+  ARTIFACT: 'webHelpIN2-all.zip'
   DOCKER_VERSION: '242.21870'
   ALGOLIA_ARTIFACT: 'algolia-indexes-IN.zip'
   ALGOLIA_APP_NAME: 'Go Advanced Admin Docs'
