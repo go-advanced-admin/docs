@@ -7,6 +7,9 @@
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
+            <algolia-id>Q154LTKUGD</algolia-id>
+            <algolia-index>docs</algolia-index>
+            <algolia-api-key>bab82e264b24b313c625767d43e9180a</algolia-api-key>
         </variables>
     </build-profile>
 
