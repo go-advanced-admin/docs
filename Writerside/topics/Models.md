@@ -237,3 +237,6 @@ If you have questions or need further assistance, feel free to
 ---
 
 **Thank you for using go-advanced-admin!**
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

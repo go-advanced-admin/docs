@@ -305,3 +305,6 @@ able to create an integrator tailored to your needs.
 If you have questions or need assistance, feel free to open an issue on GitHub or reach out to the community.
 
 **Happy coding!**
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}
