@@ -41,3 +41,6 @@ Advanced Admin Panel better for everyone.
 
 Feel free to explore the specific guides and start building powerful admin interfaces with the Advanced Admin Panel and 
 your favorite Go web framework.
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

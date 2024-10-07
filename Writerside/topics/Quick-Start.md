@@ -298,3 +298,7 @@ frameworks and ORMs:
 
 You've successfully set up the Go Advanced Admin Panel with Echo and GORM! From here, you can explore more features, 
 integrate with other frameworks or ORMs, and customize the admin panel to suit your application's needs.
+
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

@@ -22,4 +22,12 @@
         <description>Created after removal of "Permissions" from docs</description>
         <accepts>Permissions.html</accepts>
     </rule>
+    <rule id="1e452244">
+        <description>Created after removal of "Customization" from Go Advanced Admin Panel Documentation</description>
+        <accepts>Customization.html</accepts>
+    </rule>
+    <rule id="12e0a958">
+        <description>Created after removal of "Best Practices" from Go Advanced Admin Panel Documentation</description>
+        <accepts>Best-Practices.html</accepts>
+    </rule>
 </rules>

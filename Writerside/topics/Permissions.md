@@ -356,3 +356,6 @@ users may not see any content when accessing the main page or specific apps and 
 ---
 
 Thank you for using **go-advanced-admin**!
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}
