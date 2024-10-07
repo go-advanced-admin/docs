@@ -121,3 +121,6 @@ Thank you for choosing the Go Advanced Admin Panel. We're excited to have you on
 ---
 
 *Go Advanced Admin Panel Team*
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

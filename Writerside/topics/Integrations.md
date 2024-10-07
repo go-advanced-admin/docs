@@ -70,3 +70,7 @@ page. Here, you can:
 
 Your feedback and contributions are invaluable in helping us improve and expand the admin panel to meet the needs of 
 the Go community.
+
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

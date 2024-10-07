@@ -127,3 +127,7 @@ If you encounter any issues or have questions while integrating your ORM, please
 - **Community Forum:** [Join the Discussion](https://github.com/go-advanced-admin/admin/discussions)
 
 We are here to assist you and appreciate any feedback that can help improve our documentation and tools.
+
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

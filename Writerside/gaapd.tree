@@ -47,7 +47,13 @@
         <toc-element topic="Logging.md"/>
         <toc-element topic="Template-Rendering.md"/>
     </toc-element>
-    <toc-element topic="Advanced-Topics.md"/>
-    <toc-element topic="Best-Practices.md"/>
+    <toc-element topic="Advanced-Topics.md">
+        <toc-element topic="Production-Deployments.md"/>
+        <toc-element topic="Performance-Optimization.md"/>
+        <toc-element topic="Security-Best-Practices.md"/>
+        <toc-element topic="Customizing-Forms.md"/>
+        <toc-element topic="Cusomizing-The-Admin-Panel-s-Look.md"/>
+    </toc-element>
     <toc-element topic="Contributing.md"/>
+    <toc-element topic="Road-Map.md"/>
 </instance-profile>
