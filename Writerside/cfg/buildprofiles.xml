@@ -11,6 +11,10 @@
             <algolia-api-key>bab82e264b24b313c625767d43e9180a</algolia-api-key>
             <noindex-content>false</noindex-content>
         </variables>
+        <footer>
+            <copyright>2024 Go Advanced Admin Team</copyright>
+        </footer>
+        <sitemap priority="0.35" change-frequency="weekly"/>
     </build-profile>
 
 </buildprofiles>
