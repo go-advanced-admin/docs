@@ -1,15 +1,29 @@
-# Go Advanced Admin Documentation
+Go Advanced Admin - Documentation
 
-A Highly Customizable Advanced Admin Panel for Go (Still in development a lot)
+This repository contains the documentation for the Go Advanced Admin Panel.
 
-[![go report card](https://goreportcard.com/badge/github.com/go-advanced-admin/admin "go report card")](https://goreportcard.com/report/github.com/go-advanced-admin/admin)
-[![Go](https://github.com/go-advanced-admin/admin/actions/workflows/tests.yml/badge.svg)](https://github.com/go-advanced-admin/admin/actions/workflows/tests.yml)
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/go-advanced-admin/admin?tab=doc)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
-## Contributing
-Contributions are always welcome! If you're interested in contributing to the project, please take a look at our [Contributing Guidelines](CONTRIBUTING.md) file for guidelines on how to get started. We appreciate your help in improving the library!
+The documentation is built using [Writerside](https://www.jetbrains.com/writerside/) and is hosted at [goadmin.dev](https://goadmin.dev).
 
-Special Thank you to the following current maintainers:
-- [Yidi Sprei](https://github.com/YidiDev)
-- [{{ Insert preferred name }}](https://github.com/coal-rock)
+## Contributing to the Documentation
+
+We welcome contributions to improve the documentation! If you'd like to contribute:
+
+1. Clone this repository.
+2. Make your changes or additions.
+3. Submit a pull request for review.
+
+Please ensure that your contributions align with the project's style and guidelines.
+
+## Building the Documentation Locally
+
+To build the documentation locally:
+
+1. Install [Writerside](https://www.jetbrains.com/writerside/).
+2. Open the project in Writerside.
+3. Build or preview the documentation as needed.
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
