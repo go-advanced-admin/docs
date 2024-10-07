@@ -1,4 +1,4 @@
-# SQLX
+# Chi
 
 Coming soon...
 

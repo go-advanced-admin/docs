@@ -1,4 +1,4 @@
-# SQLX
+# Gin Integration
 
 Coming soon...
 

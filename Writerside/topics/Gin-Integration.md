@@ -1,3 +1,0 @@
-# Gin Integration
-
-Coming soon...
