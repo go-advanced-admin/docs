@@ -59,7 +59,7 @@ checked into source control.
 
 ### Creating a Dockerfile
 
-```dockerfile
+```bash
 FROM golang:1.16-alpine
 
 WORKDIR /app
@@ -79,7 +79,7 @@ CMD ["./admin-panel"]
 
 ### Running the Container
 
-```sh
+```bash
 docker build -t admin-panel .
 docker run -d -p 8080:8080 --env-file .env admin-panel
 ```

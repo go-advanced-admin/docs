@@ -105,7 +105,7 @@ admin panel.
 
 - **pprof**: Utilize Go's `pprof` tool to profile CPU and memory usage.
 
-  ```sh
+  ```bash
   go tool pprof cpu.prof
   ```
 
