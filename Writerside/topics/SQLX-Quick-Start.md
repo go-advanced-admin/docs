@@ -1,4 +1,4 @@
-# SQLX
+# SQLX Integration
 
 Coming soon...
 

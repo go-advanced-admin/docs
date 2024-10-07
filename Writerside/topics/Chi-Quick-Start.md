@@ -1,4 +1,4 @@
-# SQLX
+# Chi Integration
 
 Coming soon...
 

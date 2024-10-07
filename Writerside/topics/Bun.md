@@ -1,4 +1,4 @@
-# SQLX
+# Bun
 
 Coming soon...
 

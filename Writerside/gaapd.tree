@@ -4,36 +4,50 @@
 
 <instance-profile id="gaapd"
                  name="Go Advanced Admin Panel Documentation"
-                 start-page="Quick-Start.md">
+                 start-page="Welcome.md">
 
+    <toc-element topic="Welcome.md"/>
     <toc-element topic="Quick-Start.md">
-        <toc-element topic="Generic-Quick-Start.md"/>
-        <toc-element topic="Framework-Specific-Quick-Starts.md">
-            <toc-element topic="Echo-Integration.md"/>
-            <toc-element topic="Fiber-Integration.md"/>
-            <toc-element topic="Gin-Integration.md"/>
-            <toc-element topic="Chi-Integration.md"/>
-        </toc-element>
         <toc-element topic="ORM-Specific-Quick-Starts.md">
-            <toc-element topic="GORM-Integration.md"/>
-            <toc-element topic="Bun-Integration.md"/>
-            <toc-element topic="SQLX.md"/>
-            <toc-element topic="XORM-Integration.md"/>
+            <toc-element topic="GORM-Quick-Start.md"/>
+            <toc-element topic="Bun-Quick-Start.md"/>
+            <toc-element topic="SQLX-Quick-Start.md"/>
+            <toc-element topic="XORM-Quick-Start.md"/>
+        </toc-element>
+        <toc-element topic="Web-Framework-Specific-Quick-Starts.md">
+            <toc-element topic="Echo-Quick-Start.md"/>
+            <toc-element topic="Fiber-Quick-Start.md"/>
+            <toc-element topic="Gin-Quick-Start.md"/>
+            <toc-element topic="Chi-Quick-Start.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Integrations.md">
         <toc-element topic="ORM.md">
+            <toc-element topic="XORM.md"/>
+            <toc-element topic="SQLX.md"/>
             <toc-element topic="GORM.md"/>
+            <toc-element topic="Bun.md"/>
             <toc-element topic="Building-a-Custom-ORM-Integration.md"/>
         </toc-element>
         <toc-element topic="Web.md">
-            <toc-element topic="Building-a-Custom-Web-Framework-Integration.md"/>
+            <toc-element topic="Chi.md"/>
+            <toc-element topic="Gin.md"/>
             <toc-element topic="Echo.md"/>
+            <toc-element topic="Fiber.md"/>
+            <toc-element topic="Building-a-Custom-Web-Framework-Integration.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Core-Features.md">
         <toc-element topic="Permissions.md"/>
+        <toc-element topic="Configuration.md"/>
+        <toc-element topic="Templates.md"/>
+        <toc-element topic="Applications.md"/>
+        <toc-element topic="Models.md"/>
+        <toc-element topic="Forms.md"/>
+        <toc-element topic="Logging.md"/>
+        <toc-element topic="Template-Rendering.md"/>
     </toc-element>
     <toc-element topic="Advanced-Topics.md"/>
     <toc-element topic="Best-Practices.md"/>
+    <toc-element topic="Contributing.md"/>
 </instance-profile>
