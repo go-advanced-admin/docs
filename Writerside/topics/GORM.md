@@ -437,3 +437,6 @@ community.
 
 > The code examples provided in this guide are based on the GORM integration code and demonstrate typical usage 
 > scenarios. Adjustments might be necessary based on your specific application setup.
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

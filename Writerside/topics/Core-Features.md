@@ -156,3 +156,6 @@ by [opening an issue](https://github.com/go-advanced-admin/admin/issues/new/choo
 ---
 
 Thank you for using **go-advanced-admin**!
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

@@ -515,7 +515,7 @@ func ContactHandler(w http.ResponseWriter, r *http.Request) {
 
 ## Next Steps
 
-- **Explore Advanced Topics**: Learn about [Customizing the Admin Panel](customization.md) and [Security Best Practices](security.md).
+- **Explore Advanced Topics**: Learn about [](Cusomizing-The-Admin-Panel-s-Look.md) and [](Security-Best-Practices.md).
 - **Check Integrations**: See how to integrate with different [ORMs](ORM.md) and [Web Frameworks](Web.md).
 - **Contribute**: If you encounter issues or have suggestions, please 
 - [open an issue](https://github.com/go-advanced-admin/admin/issues) or submit a pull request.
@@ -530,3 +530,6 @@ We value your feedback. If you have any suggestions or find something unclear in
 ---
 
 **Thank you for using go-advanced-admin!**
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

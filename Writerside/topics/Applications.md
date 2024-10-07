@@ -179,3 +179,6 @@ We welcome your feedback! If you have suggestions or find issues, please
 ---
 
 Thank you for using **go-advanced-admin**!
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}

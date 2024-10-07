@@ -444,3 +444,6 @@ If you have any questions or need assistance, feel free to
 > This guide was generated to help developers integrate their custom ORMs with the Go Advanced Admin panel. 
 > For any discrepancies or issues, 
 > [please reach out to the maintainers](https://github.com/go-advanced-admin/admin/issues).
+
+> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
+{style="note"}
