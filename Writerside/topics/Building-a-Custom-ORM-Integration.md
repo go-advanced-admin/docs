@@ -226,7 +226,7 @@ func (i *Integrator) buildSearchCondition(
     var conditions []string
     for _, field := range fields {
         conditions = append(
-            conditions, fmt.Sprintf("%s LIKE '%%%s%%'", field, query), 
+            conditions, fmt.Sprintf("%s LIKE '%s'", field, query), 
         )
     }
     return strings.Join(conditions, " OR ")
