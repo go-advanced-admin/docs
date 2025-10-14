@@ -17,7 +17,7 @@ Below you'll find detailed guides on advanced features and best practices:
 
 Enhance the user experience by tailoring the admin panel to your application's branding and functionality needs.
 
-- [**Customizing the Admin Panel's Look**](Cusomizing-The-Admin-Panel-s-Look.md): Learn how to override default 
+- [**Customizing the Admin Panel's Look**](Customizing-The-Admin-Panels-Look.md): Learn how to override default 
 templates, use custom CSS and JavaScript, and create custom themes to change the appearance of your admin panel.
 - [**Customizing Forms and Adding Custom Form Types**](Customizing-Forms.md): Discover how to customize existing forms, 
 add new form fields, and create custom form field types for specialized data input.
