@@ -88,4 +88,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/goadmin
+      link: https://github.com/go-advanced-admin
