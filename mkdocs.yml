@@ -85,7 +85,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - tables
-analytics:
+extra:
+  analytics:
     provider: google
     property: G-GXGREVPZG6
   social:
