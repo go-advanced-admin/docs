@@ -1,4 +1,5 @@
 site_name: Go Advanced Admin Panel Documentation
+repo_url: https://github.com/go-advanced-admin/admin
 plugins:
   - privacy
 theme:
