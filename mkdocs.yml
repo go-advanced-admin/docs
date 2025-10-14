@@ -1,4 +1,6 @@
 site_name: Go Advanced Admin Panel Documentation
+plugins:
+  - privacy
 theme:
   name: material
   features:
