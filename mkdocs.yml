@@ -85,7 +85,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - tables
-extra:
+analytics:
+    provider: google
+    property: G-GXGREVPZG6
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/go-advanced-admin
