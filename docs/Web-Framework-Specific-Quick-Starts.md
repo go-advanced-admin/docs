@@ -25,7 +25,7 @@ Each guide provides:
 ## Building a Custom Web Framework Integration
 
 If your preferred web framework isn't listed above, or if you need to create a custom integration, please refer to the
-[](Building-a-Custom-Web-Framework-Integration.md) guide. This comprehensive tutorial will help you:
+[Building a Custom Web Framework Integration](Building-a-Custom-Web-Framework-Integration.md) guide. This comprehensive tutorial will help you:
 
 - Implement the required interfaces.
 - Handle HTTP requests and responses.
@@ -42,5 +42,5 @@ Advanced Admin Panel better for everyone.
 Feel free to explore the specific guides and start building powerful admin interfaces with the Advanced Admin Panel and 
 your favorite Go web framework.
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

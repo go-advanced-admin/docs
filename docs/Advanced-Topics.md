@@ -44,6 +44,6 @@ Deploy your admin panel with confidence.
 containerization with Docker, scaling, monitoring, and other best practices for deploying your admin panel in 
 production environments.
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
 

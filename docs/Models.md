@@ -201,14 +201,14 @@ For more advanced use cases, you can:
 - **Implement Custom ORM Logic:** Provide a custom ORM integrator if you have special database interactions.
 - **Override Handlers:** Customize how requests are handled by providing your own handlers.
 
-Refer to the [](Advanced-Topics.md) section for more details.
+Refer to the [Advanced Topics](Advanced-Topics.md) section for more details.
 
 ## References
 
 - **Quick Start Guide:** For a step-by-step setup, check out the [Quick Start Guide](Quick-Start.md).
-- **Forms Framework:** Learn more about form fields and validation in the [](Forms.md) section.
-- **Permissions:** Understand how to secure your models in the [](Permissions.md) guide.
-- **Applications:** Organize your models using [](Applications.md).
+- **Forms Framework:** Learn more about form fields and validation in the [Forms](Forms.md) section.
+- **Permissions:** Understand how to secure your models in the [Permissions](Permissions.md) guide.
+- **Applications:** Organize your models using [Applications](Applications.md).
 
 ## Contributing
 
@@ -224,8 +224,8 @@ to models:
 **Next Steps:**
 
 - Explore how to [Customize Templates](Templates.md) for your models.
-- Learn about [](Logging.md) to track changes to your models.
-- Dive into [](Integrations.md) for ORM and web framework specifics.
+- Learn about [Logging](Logging.md) to track changes to your models.
+- Dive into [Integrations](Integrations.md) for ORM and web framework specifics.
 
 ---
 
@@ -238,5 +238,5 @@ If you have questions or need further assistance, feel free to
 
 **Thank you for using go-advanced-admin!**
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

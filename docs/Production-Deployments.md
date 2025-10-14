@@ -140,5 +140,5 @@ docker run -d -p 8080:8080 --env-file .env admin-panel
 - [AWS Deployment Best Practices](https://aws.amazon.com/architecture/well-architected/)
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

@@ -143,8 +143,8 @@ community on [GitHub Discussions](https://github.com/go-advanced-admin/admin/dis
 **Next Steps:**
 
 - Dive into the [Quick Start Guide](Quick-Start.md) to get started with the admin panel.
-- Explore the [](Integrations.md) section for ORM and web framework support.
-- Check out the [](Advanced-Topics.md) for in-depth customization options.
+- Explore the [Integrations](Integrations.md) section for ORM and web framework support.
+- Check out the [Advanced Topics](Advanced-Topics.md) for in-depth customization options.
 
 ---
 
@@ -157,5 +157,5 @@ by [opening an issue](https://github.com/go-advanced-admin/admin/issues/new/choo
 
 Thank you for using **go-advanced-admin**!
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

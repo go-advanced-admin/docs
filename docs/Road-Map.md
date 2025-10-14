@@ -108,5 +108,5 @@ Your feedback and contributions are invaluable in helping us improve and expand 
 
 *This roadmap is subject to change based on community feedback and project needs.*
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
