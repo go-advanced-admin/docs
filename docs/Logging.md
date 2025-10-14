@@ -282,8 +282,8 @@ Your contributions help make **go-advanced-admin** better for everyone!
 
 **Next Steps:**
 
-- Explore the [](Advanced-Topics.md) for more customization options.
-- Read about [](Templates.md) to customize the UI.
+- Explore the [Advanced Topics](Advanced-Topics.md) for more customization options.
+- Read about [Templates](Templates.md) to customize the UI.
 
 ---
 
@@ -295,5 +295,5 @@ Your contributions help make **go-advanced-admin** better for everyone!
 Thank you for using **go-advanced-admin**!
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

@@ -75,7 +75,7 @@ We are continually expanding support for more ORMs. If your preferred ORM is not
 If the ORM you're using is not currently supported, you can build a custom integration by implementing the required 
 interfaces provided by the admin panel. Our comprehensive guide will walk you through the process.
 
-- **Guide:** [](Building-a-Custom-ORM-Integration.md)
+- **Guide:** [Building a Custom ORM Integration](Building-a-Custom-ORM-Integration.md)
     - **Sections Covered:**
         - Implementing the Required Interface
         - Handling Database Interactions
@@ -129,5 +129,5 @@ If you encounter any issues or have questions while integrating your ORM, please
 We are here to assist you and appreciate any feedback that can help improve our documentation and tools.
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

@@ -23,9 +23,9 @@ simplify the process of creating administrative backends for your applications b
 
 ### Modular Architecture
 
-- **ORM Integrations**: Out-of-the-box support for [](GORM.md), XORM (coming soon), SQLX (coming soon), Bun (coming
+- **ORM Integrations**: Out-of-the-box support for [GORM](GORM.md), XORM (coming soon), SQLX (coming soon), Bun (coming
   soon), and more.
-- **Web Framework Integrations**: Compatible with Gin (coming soon), [](Echo.md), Chi (coming soon), Fiber (coming 
+- **Web Framework Integrations**: Compatible with Gin (coming soon), [Echo](Echo.md), Chi (coming soon), Fiber (coming 
   soon), and other popular frameworks.
 - **Custom Integrations**: Ability to create custom ORM and web framework integrations.
 
@@ -122,5 +122,5 @@ Thank you for choosing the Go Advanced Admin Panel. We're excited to have you on
 
 *Go Advanced Admin Panel Team*
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
