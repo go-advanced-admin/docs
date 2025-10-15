@@ -1,0 +1,87 @@
+site_name: Go Advanced Admin Panel Documentation
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: "Inter"
+    code: "Fira Code"
+nav:
+  - Home: index.md
+  - Quick Start:
+      - Overview: Quick-Start.md
+      - ORM-Specific Quick Starts:
+          - Overview: ORM-Specific-Quick-Starts.md
+          - GORM Quick Start: GORM-Quick-Start.md
+          - Bun Quick Start: Bun-Quick-Start.md
+          - SQLX Quick Start: SQLX-Quick-Start.md
+          - XORM Quick Start: XORM-Quick-Start.md
+      - Web Framework Quick Starts:
+          - Overview: Web-Framework-Specific-Quick-Starts.md
+          - Echo Quick Start: Echo-Quick-Start.md
+          - Fiber Quick Start: Fiber-Quick-Start.md
+          - Gin Quick Start: Gin-Quick-Start.md
+          - Chi Quick Start: Chi-Quick-Start.md
+  - Integrations:
+      - Overview: Integrations.md
+      - ORM Integrations:
+          - Overview: ORM.md
+          - XORM: XORM.md
+          - SQLX: SQLX.md
+          - GORM: GORM.md
+          - Bun: Bun.md
+          - Build a Custom ORM Integration: Building-a-Custom-ORM-Integration.md
+      - Web Integrations:
+          - Overview: Web.md
+          - Chi: Chi.md
+          - Gin: Gin.md
+          - Echo: Echo.md
+          - Fiber: Fiber.md
+          - Build a Custom Web Integration: Building-a-Custom-Web-Framework-Integration.md
+  - Core Features:
+      - Overview: Core-Features.md
+      - Permissions: Permissions.md
+      - Configuration: Configuration.md
+      - Templates: Templates.md
+      - Applications: Applications.md
+      - Models: Models.md
+      - Forms: Forms.md
+      - Logging: Logging.md
+      - Template Rendering: Template-Rendering.md
+  - Advanced Topics:
+      - Overview: Advanced-Topics.md
+      - Production Deployments: Production-Deployments.md
+      - Performance Optimization: Performance-Optimization.md
+      - Security Best Practices: Security-Best-Practices.md
+      - Customizing Forms: Customizing-Forms.md
+      - Customizing the Admin Panel's Look: Customizing-The-Admin-Panels-Look.md
+  - Contributing: Contributing.md
+  - Road Map: Road-Map.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - tables
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/goadmin
