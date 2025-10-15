@@ -95,7 +95,7 @@ you through:
 - Serving templates and static files.
 - Registering your custom framework with the admin panel.
 
-**Guide:** [](Building-a-Custom-Web-Framework-Integration.md)
+**Guide:** [Building a Custom Web Framework Integration](Building-a-Custom-Web-Framework-Integration.md)
 
 ### Topics Covered:
 
@@ -149,5 +149,5 @@ We're here to help you make the most of the Advanced Admin Panel.
 Feel free to explore the guides linked above to integrate the admin panel with your web framework of choice. We look forward to seeing how you utilize the admin panel in your projects!
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

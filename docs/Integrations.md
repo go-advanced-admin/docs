@@ -17,17 +17,17 @@ Each subpage includes guides for supported integrations and comprehensive instru
 The ORM Integrations page provides detailed guides on how to integrate the admin panel with different Object-Relational 
 Mapping (ORM) libraries. We currently support the following ORMs:
 
-- [](GORM.md)
-- [](XORM.md) (coming soon)
-- [](SQLX.md) (coming soon)
-- [](Bun.md) (coming soon)
+- [GORM](GORM.md)
+- [XORM](XORM.md) (coming soon)
+- [SQLX](SQLX.md) (coming soon)
+- [Bun](Bun.md) (coming soon)
 - [Other Popular Go ORMs](ORM.md)
 
 ### Building a Custom ORM Integration
 
 If your preferred ORM is not listed above, you can build a custom integration by following our comprehensive guide:
 
-- [](Building-a-Custom-ORM-Integration.md)
+- [Building a Custom ORM Integration](Building-a-Custom-ORM-Integration.md)
 
 This guide covers:
 
@@ -40,17 +40,17 @@ This guide covers:
 The Web Framework Integrations page offers detailed guides on integrating the admin panel with various Go web 
 frameworks. Supported frameworks include:
 
-- [](Gin.md) (coming soon)
-- [](Echo.md)
-- [](Chi.md) (coming soon)
-- [](Fiber.md) (coming soon)
+- [Gin](Gin.md) (coming soon)
+- [Echo](Echo.md)
+- [Chi](Chi.md) (coming soon)
+- [Fiber](Fiber.md) (coming soon)
 - [Other Popular Go Web Frameworks](Web.md)
 
 ### Building a Custom Web Framework Integration
 
 For frameworks not listed, you can create a custom integration using our step-by-step guide:
 
-- [](Building-a-Custom-Web-Framework-Integration.md)
+- [Building a Custom Web Framework Integration](Building-a-Custom-Web-Framework-Integration.md)
 
 This guide covers:
 
@@ -72,5 +72,5 @@ Your feedback and contributions are invaluable in helping us improve and expand 
 the Go community.
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

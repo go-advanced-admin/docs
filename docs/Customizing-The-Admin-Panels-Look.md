@@ -141,5 +141,5 @@ Suppose you want to apply a dark theme to the admin panel.
 - [Go `html/template` Package Documentation](https://golang.org/pkg/html/template/)
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
