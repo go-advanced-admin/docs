@@ -313,7 +313,7 @@ practices.
 
 ---
 
-> For further assistance or questions, please refer to the [official documentation](Welcome.md) or
+> For further assistance or questions, please refer to the [official documentation](index.md) or
 > [reach out to the community](https://github.com/go-advanced-admin/web-echo/discussions).*
 
 > This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
