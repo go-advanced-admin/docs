@@ -4,6 +4,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.sections
     - navigation.tabs
     - navigation.top
     - toc.follow
