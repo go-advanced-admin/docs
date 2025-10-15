@@ -50,7 +50,7 @@ Choose your ORM from the list above to access the specific quick start guide tai
 ## Building a Custom ORM Integration
 
 If your preferred ORM is not listed, you can create a custom integration by implementing the required interfaces. Refer
-to the [](Building-a-Custom-ORM-Integration.md) guide for detailed instructions on:
+to the [Building a Custom ORM Integration](Building-a-Custom-ORM-Integration.md) guide for detailed instructions on:
 
 - Implementing the ORM integrator interface.
 - Handling database interactions.
@@ -69,5 +69,5 @@ contributions help make the Go Advanced Admin Panel more versatile and useful fo
 - Return to the [Generic Quick Start Guide](Quick-Start.md).
 - Proceed to the [Web Framework Quick Start Guides](Web-Framework-Specific-Quick-Starts.md) to integrate with your preferred web framework.
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

@@ -179,5 +179,5 @@ expectations for all contributors.
 Thank you for taking the time to contribute to Go Advanced Admin. Your efforts help improve the project for everyone. 
 We look forward to your contributions!
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

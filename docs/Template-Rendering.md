@@ -80,7 +80,7 @@ If the default templates don't meet your needs, you can create entirely new temp
 - **Define Your Template Files**: Create `.html` files using Go's template syntax.
 - **Register Templates**: Use the renderer's methods to register your templates.
 
-For more details on template customization, refer to the [](Templates.md) page.
+For more details on template customization, refer to the [Templates](Templates.md) page.
 
 ---
 
@@ -220,8 +220,8 @@ By contributing, you help make **go-advanced-admin** more versatile and valuable
 
 ## Further Reading
 
-- **[](Templates.md)**: Detailed guide on customizing templates.
-- **[](Configuration.md)**: Comprehensive guide on configuration options.
+- **[Templates](Templates.md)**: Detailed guide on customizing templates.
+- **[Configuration](Configuration.md)**: Comprehensive guide on configuration options.
 - **[Contribution Guide](Contributing.md)**: How to contribute to the project.
 - **[Issue Tracker](https://github.com/go-advanced-admin/admin/issues)**: Report bugs or request features.
 
@@ -229,9 +229,9 @@ By contributing, you help make **go-advanced-admin** more versatile and valuable
 
 **Next Steps:**
 
-- Customize your templates by following the [](Templates.md) guide.
-- Explore advanced customization in the [](Advanced-Topics.md).
-- Learn how to create custom forms in the [](Forms.md) section.
+- Customize your templates by following the [Templates](Templates.md) guide.
+- Explore advanced customization in the [Advanced Topics](Advanced-Topics.md).
+- Learn how to create custom forms in the [Forms](Forms.md) section.
 
 ---
 
@@ -245,5 +245,5 @@ We value your feedback. If you have suggestions or encounter issues, please
 **Thank you for using go-advanced-admin!**
 
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.

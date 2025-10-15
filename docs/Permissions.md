@@ -333,7 +333,7 @@ If the admin panel appears empty or certain sections are not visible, follow the
 
 - **Proceed to Configuration**
 
-  Continue to the [](Configuration.md) guide to further customize your admin panel.
+  Continue to the [Configuration](Configuration.md) guide to further customize your admin panel.
 
 ---
 
@@ -351,11 +351,11 @@ users may not see any content when accessing the main page or specific apps and 
 
 ---
 
-*Return to [](Core-Features.md) or explore other topics in the documentation.*
+*Return to [Core Features](Core-Features.md) or explore other topics in the documentation.*
 
 ---
 
 Thank you for using **go-advanced-admin**!
 
-> This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
-{style="note"}
+!!! note
+    This section of the documentation was written with the help of [Infuzu AI](https://infuzu.com)'s tools.
