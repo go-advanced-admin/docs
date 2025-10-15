@@ -5,7 +5,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - navigation.expand
+    - navigation.tabs
     - navigation.top
     - toc.follow
   palette:
