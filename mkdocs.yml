@@ -76,7 +76,17 @@ nav:
       - Security Best Practices: Security-Best-Practices.md
       - Customizing Forms: Customizing-Forms.md
       - Customizing the Admin Panel's Look: Customizing-The-Admin-Panels-Look.md
-  - Contributing: Contributing.md
+  - Community:
+      - Community:
+          - Contributing: Contributing.md
+          - Reporting a Bug: Reporting-a-Bug.md
+          - Reporting a Docs Issue: Reporting-a-Docs-Issue.md
+          - Requesting a Change: Requesting-a-Change.md
+          - Adding Translations: Adding-Translations.md
+          - Making a Pull Request: Making-a-Pull-Request.md
+          - Asking a Question: Asking-a-Question.md
+      - Guides:
+          - Creating a Reproduction: Creating-a-Reproduction.md
   - Road Map: Road-Map.md
 markdown_extensions:
   - admonition
