@@ -4,6 +4,8 @@ repo_name: go-advanced-admin/docs
 edit_uri: edit/main/docs/
 plugins:
   - privacy
+  - minify:
+      minify_html: true
 theme:
   name: material
   features:
