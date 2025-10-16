@@ -13,14 +13,14 @@ theme:
     - toc.follow
   palette:
     - scheme: default
-      primary: blue grey
-      accent: light blue
+      primary: indigo
+      accent: pink
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
-      accent: light blue
+      primary: deep purple
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
