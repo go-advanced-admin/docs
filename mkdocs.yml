@@ -18,6 +18,9 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
+    - search.highlight
+    - search.share
+    - search.suggest
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
